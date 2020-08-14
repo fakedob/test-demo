@@ -4,6 +4,7 @@ const app = express()
 const port = 3000
 
 // const bodyParser = require('body-parser');
+//test
 // app.use(bodyParser);
 
 app.post('/', (req, res) => {
